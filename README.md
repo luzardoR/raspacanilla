@@ -1,1 +1,1 @@
-# bytes!!! si ves esto consigueme una chamba porfa
+pequeño codigo realizado para generar cadenas de texto aleatorias como contraseña
