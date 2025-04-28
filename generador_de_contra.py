@@ -4,6 +4,7 @@ import random
 import pyperclip
 
 root = Tk()
+root.title("Generador de Contraseñas");
 
 texto= Label(root, text="click abajo para generar su contraseña.")
 texto.grid(row=0)
